@@ -19,5 +19,6 @@ Qt Website: http://www.heilqt.com
 ### Function about Baidu Map Api
 
 * http://developer.baidu.com/map/jsdemo.htm#i2_1
+
 ### Follow the csdn blog
 * http://blog.csdn.net/esonpo/article/details/9243027
